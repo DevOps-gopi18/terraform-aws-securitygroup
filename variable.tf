@@ -21,3 +21,7 @@ variable "common_tags" {
 variable "sg_tags" {
     default = {}
 }
+
+variable "vpc_id" {
+    
+}
